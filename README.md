@@ -1,20 +1,18 @@
-# Project detail: 
+# RFM Analysis for Customer Segmentation
 
-# Predicting Churned Users for E-commerce Company
+This project aims to assist the Marketing department of SuperStore, a global retail company, in segmenting their customer base using the RFM (Recency – Frequency – Monetary) model. With a vast dataset, manual segmentation isn't viable, necessitating Python for automated segmentation. The tasks involve dataset preparation, RFM scoring, customer grouping, visualization, analysis, and recommendations for Marketing.
 
-## Objective
-This project aims to predict churned users within an e-commerce platform to facilitate targeted promotions and reduce churn rates.
+## Tasks:
 
-## Tasks
+1. **Data Preparation:** Prepare a suitable dataset for the RFM model.
+2. **RFM Calculation:** Define the calculation method and calculate the R, F, M scores for each customer. Note: R index calculation considers the date as of December 31, 2011.
+3. **Scoring System:** Establish a scoring system ranging from 1 to 5.
+4. **Customer Grouping:** Group customers based on the classification table.
+5. **Visualization:** Visualize the quantity of each segment using various data dimensions.
+6. **Analysis:** Analyze the current status of the company and provide recommendations for the Marketing team.
+7. **Prioritization:** Suggest which of the three R, F, M indices should be prioritized for the retail model of SuperStore.
 
-### Exploratory Data Analysis (EDA)
-- Analyzed churn_predict dataset to understand churned user behavior.
-- Identified patterns and suggested strategies to mitigate churn.
+## Usage:
 
-### Machine Learning Model Building
-- Developed a predictive model to identify potential churners.
-- Evaluated model performance and optimized for accuracy.
-- Provided deployment instructions for practical implementation.
+1. **Clone the Repository:**
 
-## Conclusion
-By leveraging predictive analytics to anticipate churned users and offering targeted promotions, the e-commerce company aims to enhance customer retention and maximize profitability.
