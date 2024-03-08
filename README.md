@@ -1,5 +1,3 @@
-# Python-Predicting-Churned-Users-for-E-commerce-Company
-
 # project detail: 
 
 # Predicting Churned Users for E-commerce Company
