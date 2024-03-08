@@ -8,7 +8,7 @@ This project aims to predict churned users within an e-commerce platform to faci
 ## Tasks
 
 ### Exploratory Data Analysis (EDA)
-- Analyzed `churn_predict.csv` dataset to understand churned user behavior.
+- Analyzed churn_predict dataset to understand churned user behavior.
 - Identified patterns and suggested strategies to mitigate churn.
 
 ### Machine Learning Model Building
