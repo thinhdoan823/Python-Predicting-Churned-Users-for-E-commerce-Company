@@ -1,4 +1,4 @@
-# project detail: 
+# Project detail: 
 
 # Predicting Churned Users for E-commerce Company
 
