@@ -12,7 +12,3 @@ This project aims to assist the Marketing department of SuperStore, a global ret
 6. **Analysis:** Analyze the current status of the company and provide recommendations for the Marketing team.
 7. **Prioritization:** Suggest which of the three R, F, M indices should be prioritized for the retail model of SuperStore.
 
-## Usage:
-
-1. **Clone the Repository:**
-
